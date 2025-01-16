@@ -1,7 +1,6 @@
-Reference 1:
-Professor Roberts
+# References
+1. Professor Roberts
 Email: jroberts@gmail.com
 
-Reference 2:
-Professor Johnson
+2. Professor Johnson
 Email: njohnson@gmail.com
